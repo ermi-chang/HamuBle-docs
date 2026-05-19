@@ -1,0 +1,15 @@
+{
+  "name": "hamuble-docs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HamuBle 用户手册 (VitePress)",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
