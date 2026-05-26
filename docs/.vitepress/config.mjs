@@ -13,7 +13,7 @@ export default defineConfig({
   ],
   themeConfig: {
     nav: [
-      { text: '必读', link: '/license' },
+      { text: '使用前', link: '/license' },
       { text: '关于', link: '/about' },
       { text: '使用方法', link: '/usage' },
       { text: '安装', link: '/install' },
@@ -21,9 +21,9 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: '⚠ 必读',
+        text: '使用前',
         items: [
-          { text: '许可协议 / 使用条款', link: '/license' }
+          { text: '使用前的小提醒', link: '/license' }
         ]
       },
       {
