@@ -15,10 +15,23 @@
    chrome://extensions
    ```
 
+   ![chrome://extensions 页面](/img/install/chrome-extensions-page.jpg)
+
 3. 打开右上角的 **「开发者模式」** 开关。
+
+   ![打开右上角的开发者模式开关](/img/install/dev-mode-toggle.jpg)
+
 4. 点击 **「加载已解压的扩展程序」**。
+
+   ![点击 加载已解压的扩展程序](/img/install/load-unpacked.jpg)
+
 5. 选择第 1 步中那个**包含 `manifest.json` 的文件夹**。
+
+   ![选择包含 manifest.json 的文件夹](/img/install/load-unpacked2.jpg)
+
 6. 扩展安装完成后，建议点击工具栏的拼图图标，将 HamuBle **固定**到工具栏。
+
+   ![将 HamuBle 固定到工具栏](/img/install/pin-extension.jpg)
 
 ## 打开侧边栏
 
@@ -33,6 +46,8 @@
 1. 用新版本文件替换原文件夹内容。
 2. 回到 `chrome://extensions`。
 3. 点击 HamuBle 卡片上的**刷新 / 重新加载**按钮。
+
+   ![点击 HamuBle 卡片的刷新按钮](/img/install/reload-extension.jpg)
 
 ## 卸载
 
