@@ -42,6 +42,7 @@ export default defineConfig({
           { text: '主页注册', link: '/usage#主页注册' },
           { text: '救援筛选', link: '/usage#救援筛选' },
           { text: '我的任务', link: '/usage#我的任务' },
+          { text: '掉落监视', link: '/usage#掉落监视' },
           { text: '信息',     link: '/usage#信息' },
           { text: '设置',     link: '/usage#设置' },
           { text: '收藏',     link: '/usage#收藏' }
