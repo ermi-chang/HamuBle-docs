@@ -17,7 +17,8 @@ export default defineConfig({
       { text: '关于', link: '/about' },
       { text: '使用方法', link: '/usage' },
       { text: '安装', link: '/install' },
-      { text: '常见问题', link: '/faq' }
+      { text: '常见问题', link: '/faq' },
+      { text: '更新日志', link: '/changelog' }
     ],
     sidebar: [
       {
@@ -39,6 +40,7 @@ export default defineConfig({
         text: '功能',
         items: [
           { text: '使用方法', link: '/usage' },
+          { text: '仪表盘', link: '/usage#仪表盘' },
           { text: '主页注册', link: '/usage#主页注册' },
           { text: '救援筛选', link: '/usage#救援筛选' },
           { text: '我的任务', link: '/usage#我的任务' },
